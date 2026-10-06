@@ -1,9 +1,9 @@
-# 🍔 Chapa Rápida
+# Chapa Rápida
 
 **Chapa Rápida** é um jogo mobile de montagem de hambúrgueres em que
 você atende clientes, prepara pedidos rapidamente e conquista estrelas.
 
-## 🎮 Como jogar
+## Como jogar
 
 1.  Observe o pedido do cliente.
 2.  Monte o hambúrguer na ordem correta.
@@ -11,7 +11,7 @@ você atende clientes, prepara pedidos rapidamente e conquista estrelas.
 4.  Entregue o pedido antes que o cliente perca a paciência.
 5.  Faça combos, ganhe dinheiro e compre melhorias.
 
-## 🕹️ Modos
+## Modos
 
 ### Normal
 
@@ -22,7 +22,7 @@ Progressão própria com fases, ingredientes, clientes e upgrades.
 Uma experiência mais intensa, com pedidos maiores, clientes mais
 exigentes e sistemas exclusivos de chapa.
 
-## ⭐ Progressão
+## Progressão
 
 -   18 fases no modo Normal.
 -   18 fases no modo Difícil.
@@ -51,15 +51,15 @@ exigentes e sistemas exclusivos de chapa.
 -   Bancada maior
 -   Atendimento rápido
 
-## 📱 Mobile
+## Mobile
 
 A interface foi feita pensando em telas pequenas e controles por toque.
 
-## 💾 Salvamento
+## Salvamento
 
 O progresso é salvo localmente no navegador usando `localStorage`.
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 -   HTML
 -   CSS
@@ -67,10 +67,10 @@ O progresso é salvo localmente no navegador usando `localStorage`.
 -   SVG
 -   `localStorage`
 
-## 🎨 Tema
+## Tema
 
 Cor principal: `#E8452C`
 
 ------------------------------------------------------------------------
 
-**Chapa Rápida** --- monte, entregue e conquiste a lanchonete. 🍔
+**Chapa Rápida** --- monte, entregue e conquiste a lanchonete.
