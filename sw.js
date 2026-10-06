@@ -1,12 +1,12 @@
-/* MiniCraft - Service Worker
+/* Chapa Rápida - Service Worker
  * Para publicar uma atualização do jogo, mude o número em CACHE_VERSION.
  * O cache antigo do MiniCraft é apagado automaticamente na ativação. */
-const CACHE_VERSION = 'v9.90.24';
-const CACHE_NAME = 'minicraft-' + CACHE_VERSION;
+const CACHE_VERSION = 'v5.50';
+const CACHE_NAME = 'chapa-rapida-' + CACHE_VERSION;
 
 // Arquivos do próprio app (index.html é obrigatório; o resto é opcional)
 const APP_SHELL = ['./manifest.json'];
-const OPTIONAL = ['./favicon.jpeg'];
+const OPTIONAL = ['./favicon.png'];
 
 // Biblioteca externa usada pelo jogo (three.js r128)
 const THREE_URL = 'https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js';
