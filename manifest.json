@@ -1,0 +1,11 @@
+{
+  "name": "MiniCraft",
+  "short_name": "MiniCraft",
+  "start_url": "./index.html",
+  "display": "fullscreen",
+  "orientation": "any",
+  "background_color": "#8ec9ef",
+  "theme_color": "#8ec9ef",
+  "description": "MiniCraft - jogo 3D de blocos",
+  "icons": []
+}
