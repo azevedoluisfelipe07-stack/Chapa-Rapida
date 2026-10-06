@@ -1,11 +1,11 @@
 {
-  "name": "MiniCraft",
-  "short_name": "MiniCraft",
+  "name": "Chapa rapida",
+  "short_name": "Chapa rapida",
   "start_url": "./index.html",
   "display": "fullscreen",
   "orientation": "any",
-  "background_color": "#8ec9ef",
-  "theme_color": "#8ec9ef",
-  "description": "MiniCraft - jogo 3D de blocos",
+  "background_color": "#E8452C",
+  "theme_color": "#E8452C",
+  "description": "Chapa Rápida é um jogo de montar hambúrgueres sob pressão! Atenda clientes, prepare pedidos, use a chapa, faça combos e desbloqueie novos ingredientes. Encare fases cada vez mais difíceis, compre upgrades e tente conquistar 3 estrelas em todos os níveis!",
   "icons": []
 }
